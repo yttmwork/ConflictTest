@@ -2,7 +2,7 @@
 
 void GreetingWorld()
 {
-	printf("HelloWorld\n");
+	printf("Ç‡Ç‡2çÜ\n");
 }
 
 int main(void)
